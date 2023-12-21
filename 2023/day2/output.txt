@@ -1,0 +1,201 @@
+Min set: 2 10 10 
+res : 200
+Min set: 8 7 9 
+res : 504
+Min set: 13 4 18 
+res : 936
+Min set: 9 1 13 
+res : 117
+Min set: 2 11 11 
+res : 242
+Min set: 4 3 20 
+res : 240
+Min set: 19 9 7 
+res : 1197
+Min set: 16 14 18 
+res : 4032
+Min set: 11 8 7 
+res : 616
+Min set: 2 6 8 
+res : 96
+Min set: 3 7 13 
+res : 273
+Min set: 10 9 3 
+res : 270
+Min set: 12 15 4 
+res : 720
+Min set: 4 9 6 
+res : 216
+Min set: 9 4 4 
+res : 144
+Min set: 13 11 12 
+res : 1716
+Min set: 3 10 2 
+res : 60
+Min set: 13 5 3 
+res : 195
+Min set: 13 13 13 
+res : 2197
+Min set: 19 8 13 
+res : 1976
+Min set: 15 6 14 
+res : 1260
+Min set: 4 11 7 
+res : 308
+Min set: 2 3 14 
+res : 84
+Min set: 16 1 5 
+res : 80
+Min set: 7 10 11 
+res : 770
+Min set: 13 18 7 
+res : 1638
+Min set: 15 6 5 
+res : 450
+Min set: 7 4 16 
+res : 448
+Min set: 4 4 7 
+res : 112
+Min set: 5 14 1 
+res : 70
+Min set: 20 7 15 
+res : 2100
+Min set: 8 13 19 
+res : 1976
+Min set: 15 4 13 
+res : 780
+Min set: 6 12 16 
+res : 1152
+Min set: 1 11 6 
+res : 66
+Min set: 6 10 5 
+res : 300
+Min set: 14 5 8 
+res : 560
+Min set: 7 8 11 
+res : 616
+Min set: 8 8 2 
+res : 128
+Min set: 3 13 14 
+res : 546
+Min set: 4 1 2 
+res : 8
+Min set: 12 12 13 
+res : 1872
+Min set: 7 13 5 
+res : 455
+Min set: 15 13 5 
+res : 975
+Min set: 2 14 12 
+res : 336
+Min set: 10 10 17 
+res : 1700
+Min set: 8 7 10 
+res : 560
+Min set: 2 7 5 
+res : 70
+Min set: 17 6 5 
+res : 510
+Min set: 9 14 6 
+res : 756
+Min set: 1 15 5 
+res : 75
+Min set: 3 15 12 
+res : 540
+Min set: 4 2 3 
+res : 24
+Min set: 13 10 12 
+res : 1560
+Min set: 18 5 5 
+res : 450
+Min set: 14 20 2 
+res : 560
+Min set: 5 6 2 
+res : 60
+Min set: 10 8 9 
+res : 720
+Min set: 14 4 12 
+res : 672
+Min set: 9 3 13 
+res : 351
+Min set: 10 11 17 
+res : 1870
+Min set: 8 2 13 
+res : 208
+Min set: 18 12 4 
+res : 864
+Min set: 17 19 11 
+res : 3553
+Min set: 17 9 10 
+res : 1530
+Min set: 10 2 8 
+res : 160
+Min set: 15 12 16 
+res : 2880
+Min set: 10 2 12 
+res : 240
+Min set: 14 7 14 
+res : 1372
+Min set: 2 6 7 
+res : 84
+Min set: 15 7 20 
+res : 2100
+Min set: 8 7 10 
+res : 560
+Min set: 6 10 18 
+res : 1080
+Min set: 7 13 12 
+res : 1092
+Min set: 7 12 2 
+res : 168
+Min set: 11 9 6 
+res : 594
+Min set: 10 9 8 
+res : 720
+Min set: 1 15 2 
+res : 30
+Min set: 16 11 17 
+res : 2992
+Min set: 8 6 10 
+res : 480
+Min set: 15 12 15 
+res : 2700
+Min set: 8 9 19 
+res : 1368
+Min set: 19 15 2 
+res : 570
+Min set: 14 13 1 
+res : 182
+Min set: 8 5 12 
+res : 480
+Min set: 2 1 12 
+res : 24
+Min set: 6 10 13 
+res : 780
+Min set: 10 15 18 
+res : 2700
+Min set: 10 6 16 
+res : 960
+Min set: 5 15 4 
+res : 300
+Min set: 16 13 19 
+res : 3952
+Min set: 5 7 16 
+res : 560
+Min set: 15 16 8 
+res : 1920
+Min set: 11 19 1 
+res : 209
+Min set: 7 3 4 
+res : 84
+Min set: 12 14 4 
+res : 672
+Min set: 9 4 14 
+res : 504
+Min set: 13 12 9 
+res : 1404
+Min set: 10 4 15 
+res : 600
+Min set: 6 8 15 
+res : 720
+84911

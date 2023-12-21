@@ -43,6 +43,7 @@ void tokenize(vector<int> & v, string s){
 
 int main() {
     fstream inputFile("input.txt");
+    freopen("output.txt", "w", stdout); 
     string line;
     int ans = 0;
     int red = 12, green = 13, blue = 14;
@@ -50,14 +51,18 @@ int main() {
         vector<int> tokens;
         tokenize(tokens, line);
         bool winnable = true;
+        vector<int> mn(3,0);
         for(int i = 1; i < tokens.size(); i+=2){
-            cout << tokens[i] << ' ' << tokens[i+1] << '\n';
-            if(tokens[i+1] == 0 && tokens[i] > red) winnable = false;
-            if(tokens[i+1] == 1 && tokens[i] > green) winnable = false;
-            if(tokens[i+1] == 2 && tokens[i] > blue) winnable = false;
+            mn[tokens[i+1]] = max(mn[tokens[i+1]], tokens[i]);
         }
-        cout << line << " : " << winnable << '\n';
-        if(winnable) ans += tokens[0];
+        int res = 1;
+        cout << "Min set: ";
+        for(int i = 0; i < 3; i++){
+            res *= mn[i];
+            cout << mn[i] << ' ';
+        }
+        cout << "\nres : " << res << '\n';
+        ans += res;
     }
     cout << ans << '\n';
     return 0;
